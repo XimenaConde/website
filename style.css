@@ -1,0 +1,18 @@
+h1	{
+	font-size: 100px;
+color: #7d89ad;
+font-family: 'Charmonman', cursive;
+background-color: coral;
+text-align: center;
+text-decoration: underline;
+font-weight: bold;
+}
+
+
+
+p	{font-style: italic;
+	text-decoration: underline;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: papayawhip;
+}
