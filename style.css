@@ -1,16 +1,12 @@
 h1	{
 	font-size: 100px;
 color: #7d89ad;
-font-family: 'Charmonman', cursive;
-background-color: coral;
+font-family: courier new;
 text-align: center;
-text-decoration: underline;
 font-weight: bold;
 }
 
-
-
-p	{font-style: italic;
+p	{font-style: ;
 	text-decoration: underline;
 	font-size: 20px;
 	font-weight: bold;
@@ -18,4 +14,4 @@ p	{font-style: italic;
 }
 
 h2 {font-weight: bold;
-font-family: sans-serif;}
+font-family: courier new; }
