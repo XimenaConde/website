@@ -15,14 +15,19 @@ font-family: courier new;
 text-align: center;
 font-weight: bold;
 line-height: 0;
+column-span: all;
 }
 
 h2	{font-size: 30px;  
 	color: #7d89ad;
 	font-family: courier new;
 	text-align: center;
-	line-height: 1;
+	line-height: 1
+	column-span: all;
 }
+
+div {column-count: 3;
+column-gap: 10px;}
 
 p	{font-family:courier new;
 	text-decoration: ;
