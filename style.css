@@ -1,31 +1,39 @@
+ul.navigation {background-color: #ffffff;
+		position: fixed;
+		width: 100%;
+		margin-top: 0px;
+		padding: 20px 0px;}
+
+	.navigation li{ display: inline;
+    		padding-right: 20px;
+    		font-family: roboto;
+    		font-weight: bold;}
+
+
+
+
 body {background-color: white;
 	font-family: roboto;
 	margin: 0;
 	padding: 0px 300px;
 	}
 
- img{  
-	display: block;
+ img{display: block;
 	overflow: hidden;
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 50%}
 
-.me{ font-size: 20px;
-	font-weight: bolder;}
+.section{ font-size: 20px;
+	font-weight: bolder;
+	font-family: roboto;}
 
-	ul.navigation {background-color: #ffffff;
-		position: fixed;
-		width: 100%;
-		margin-top: 0;
-		padding: 20px 0px;
+.me{font-size: 20px;}
 
-		}
+	.nombre2 {font-size: 20px;
+			}
 	
-	.navigation li{ display: inline;
-    font-family: roboto;
-    padding-right: 20px;
-    }
+	
 
 	h1	{font-size: 60px;
 	color: #7d89ad;
@@ -54,7 +62,7 @@ li a{color: #000;
 	margin: 0;
 	text-decoration: none;}
 
-.bio {font-family: roboto;
+.bio {font-family: "roboto";
 	color: black;
 	}
 
@@ -74,5 +82,5 @@ li a{color: #000;
 p {color: #7d89ad;
 font-size: 16px;}
 
-
+.message {font-style: italic;}
 .twitter {text-decoration: none;}
